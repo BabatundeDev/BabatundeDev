@@ -11,7 +11,8 @@ My work blends clean design, seamless functionality, and modern standards — al
 ## 💼 What I Do
 
 **Modern Frontend Development**  
-  Crafting responsive and accessible UIs using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap**. Strong understanding of component-driven development and UI state management.
+ - Crafting responsive and accessible UIs using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap**. Strong understanding of component-driven development 
+  and UI state management.
 
 - **User-Centric Design Implementation**  
   Translating Figma or custom mockups into scalable frontend architecture with performance and usability in mind.
