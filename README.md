@@ -36,7 +36,7 @@ HTML • CSS • JavaScript
 React • Tailwind CSS • Bootstrap • 
 
 **Tools & Platforms:**  
-GitHub • WordPress • Figma • Canva • VS Code  
+GitHub • WordPress • Figma • Firebase • APIS • Canva • VS Code  
 
 ---
 
