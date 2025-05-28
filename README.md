@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Babatunde Ishau – TundeCodz
 
 I'm a **Frontend Developer** and **Digital Creative** passionate about building user-friendly, responsive, and conversion-focused web experiences.
-Currently based in **Lagos, Nigeria**, I combine clean code with modern design to help companies, businesses and startups establish a professional online presence.
-I'm a Detail-oriented Frontend Developer focused on crafting responsive, user-centric web experiences. With a solid foundation in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React, I transform ideas into interactive digital solutions that perform beautifully across all devices. I’m driven by clean design, seamless functionality, and continuous learning.
+Currently based in **Lagos, Nigeria**, I combine clean code with modern design to help companies, businesses and startups establish a professional online presence. I’m driven by clean design, seamless functionality, and continuous learning.
 Let’s connect and bring something amazing to life!
 My work blends clean design, seamless functionality, and modern standards — always aiming to deliver value, accessibility, and scalability across devices.
 
