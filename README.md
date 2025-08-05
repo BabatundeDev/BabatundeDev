@@ -46,7 +46,6 @@ I’m open to freelance projects, internships, remote roles, and collaboration w
 
 📧 **Email:** ishaubabatunde49@gmail.com  
 📱 **WhatsApp:** tel:+2348077780144  
-🌐 **Portfolio:** https://smartwebsitelab.vercel.app/
 🌐 **Portfolio:** https://babatunde-portfolio.vercel.app/  
 💼 **LinkedIn:** https://linkedin.com/in/babatunde-ishau-95ab94359
 
