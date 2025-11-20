@@ -1,55 +1,24 @@
-# 👋 Hi, I'm Babatunde Ishau – Frontend Web Developer
+# 💫 About Me:
+I am a Frontend Web Developer and Digital Creative focused on delivering responsive, user centered and conversion driven digital experiences. Operating out of Lagos, I bring a blend of clean engineering practices and contemporary design thinking to help companies and growth minded brands strengthen their online presence. I prioritize intuitive interfaces, reliable performance and scalable solutions that support business goals across all touchpoints. Continuous learning fuels my work and I stay committed to raising the bar on every project. I am always open to collaborating on products that move the needle and create meaningful impact. Let us connect and build something remarkable together.
 
-I'm a **Frontend Web Developer** and **Digital Creative** passionate about building user-friendly, responsive, and conversion-focused web experiences.
-Currently based in **Lagos, Nigeria**, I combine clean code with modern design to help companies, businesses and startups establish a professional online presence. I’m driven by clean design, seamless functionality, and continuous learning.
-Let’s connect and bring something amazing to life!
-My work blends clean design, seamless functionality, and modern standards — always aiming to deliver value, accessibility, and scalability across devices.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/smartweblab1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/babatunde-ishau-95ab94359) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@smartweblab1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BabatundeIshau) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Babatunde Ishau) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaubabatunde49@gmail.com) 
 
-## 💼 What I Do
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BabatundeDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BabatundeDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BabatundeDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Modern Frontend Development**  
-  Crafting responsive and accessible UIs using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap**. Strong understanding of component-driven development 
-  and UI state management.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BabatundeDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- **User-Centric Design Implementation**  
-  Translating Figma or custom mockups into scalable frontend architecture with performance and usability in mind.
-
-- **E-Commerce Interfaces**  
-  Building optimized storefronts with integrated payment gateways, inventory filtering, and admin-friendly dashboards.
-
-- **Brand & Visual Identity Integration**  
-  Ensuring brand consistency through design systems, typography, and reusable UI components across web experiences.
-
-- **SEO & Performance Optimization**  
-  Enhancing discoverability and speed with semantic HTML, lazy loading, structured data, and core web vitals tuning.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BabatundeDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BabatundeDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧰 Tech Stack
-
-**Languages:**  
-HTML • CSS • JavaScript  
-
-**Frameworks & Libraries:**  
-React • Tailwind CSS • Bootstrap • 
-
-**Tools & Platforms:**  
-GitHub • WordPress • Figma • Firebase • APIS • Canva • VS Code  
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to freelance projects, internships, remote roles, and collaboration with agencies or startups.
-
-📧 **Email:** ishaubabatunde49@gmail.com  
-📱 **WhatsApp:** tel:+2348077780144  
-🌐 **Portfolio:** https://babatunde-portfolio.vercel.app/  
-💼 **LinkedIn:** https://linkedin.com/in/babatunde-ishau-95ab94359
-
----
-
-> "Design is intelligence made visible. Code is how it comes alive."
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
